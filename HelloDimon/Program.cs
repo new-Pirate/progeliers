@@ -10,6 +10,8 @@ namespace HelloDimon
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, Dimon! Where is your calc?");
+            Console.ReadLine();
         }
     }
 }
